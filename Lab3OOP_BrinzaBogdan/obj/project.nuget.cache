@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uklHqKiYnic=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User1\\Desktop\\AN2FCIM_BrinzaBogdan\\Lab3OOP_BrinzaBogdan\\Lab_3_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\sixlabors.imagesharp\\3.1.6\\sixlabors.imagesharp.3.1.6.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
