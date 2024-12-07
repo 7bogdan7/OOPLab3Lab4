@@ -1,4 +1,0 @@
-C:\Users\User1\Desktop\AN2FCIM_BrinzaBogdan\OOP\Lab4OOP_BrinzaBogdan\obj\Debug\net6.0\EcosystemSimulation.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User1\Desktop\AN2FCIM_BrinzaBogdan\OOP\Lab4OOP_BrinzaBogdan\obj\Debug\net6.0\EcosystemSimulation.AssemblyInfoInputs.cache
-C:\Users\User1\Desktop\AN2FCIM_BrinzaBogdan\OOP\Lab4OOP_BrinzaBogdan\obj\Debug\net6.0\EcosystemSimulation.AssemblyInfo.cs
-C:\Users\User1\Desktop\AN2FCIM_BrinzaBogdan\OOP\Lab4OOP_BrinzaBogdan\obj\Debug\net6.0\EcosystemSimulation.csproj.CoreCompileInputs.cache
